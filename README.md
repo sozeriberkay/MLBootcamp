@@ -1,1 +1,1 @@
-# MLBootcamp
+# MLBootcamp Sürecinde oluşturulan dosyadır.
