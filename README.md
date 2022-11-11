@@ -1,1 +1,1 @@
-# MLBootcamp
+# Techcareer.net ML Bootcamp kapsamında hazırlanan projedir. 
